@@ -1,0 +1,19 @@
+{
+    "Items": {
+        "123456": {
+            "name": "apple",
+            "type": "fruit",
+            "price": 10.0
+        },
+        "123458": {
+            "name": "orange",
+            "type": "fruit",
+            "price": 5.0
+        },
+        "HKNXRW": {
+            "name": "milk",
+            "type": "dairy",
+            "price": 2.0
+        }
+    }
+}
