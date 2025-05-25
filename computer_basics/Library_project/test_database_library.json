@@ -1,0 +1,13 @@
+{
+    "Books_list": {
+        "KWEFGD": {
+            "title": "1984",
+            "author": "George Orwell",
+            "year": 1949,
+            "category": "Fiction",
+            "_price": 9.999,
+            "quantity": 1,
+            "id": "KWEFGD"
+        }
+    }
+}

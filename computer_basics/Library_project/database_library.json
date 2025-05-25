@@ -1,0 +1,85 @@
+{
+    "Books_list": {
+        "MIEOCQ": {
+            "title": "To Kill a Mockingbird",
+            "author": "Harper Lee",
+            "year": 1960,
+            "category": "Fiction",
+            "_price": 12.0,
+            "quantity": 2,
+            "id": "MIEOCQ"
+        },
+        "HWAQQR": {
+            "title": "Go set a watchman",
+            "author": "Harper Lee",
+            "year": 2015,
+            "category": "Fiction",
+            "_price": 32.0,
+            "quantity": 4,
+            "id": "HWAQQR"
+        },
+        "KEECVW": {
+            "title": "The Great Gatsby",
+            "author": "F. Scott Fitzgerald",
+            "year": 1925,
+            "category": "Fiction",
+            "_price": 10.0,
+            "quantity": 1,
+            "id": "KEECVW"
+        },
+        "MOKEWG": {
+            "title": "The Catcher in the Rye",
+            "author": "J.D. Salinger",
+            "year": 1951,
+            "category": "Fiction",
+            "_price": 10.0,
+            "quantity": 1,
+            "id": "MOKEWG"
+        },
+        "HYYRYX": {
+            "title": "The Lord of the Rings",
+            "author": "J.R.R. Tolkien",
+            "year": 1954,
+            "category": "Fiction",
+            "_price": 10.0,
+            "quantity": 1,
+            "id": "HYYRYX"
+        },
+        "ZDEVWM": {
+            "title": "The Hobbit",
+            "author": "J.R.R. Tolkien",
+            "year": 1937,
+            "category": "Fiction",
+            "_price": 10.0,
+            "quantity": 1,
+            "id": "ZDEVWM"
+        },
+        "QEHCCR": {
+            "title": "The Da Vinci Code",
+            "author": "Dan Brown",
+            "year": 2003,
+            "category": "Fiction",
+            "_price": 10.0,
+            "quantity": 1,
+            "id": "QEHCCR"
+        },
+        "HYUPLO": {
+            "title": "The Alchemist",
+            "author": "Paulo Coelho",
+            "year": 1988,
+            "category": "Fiction",
+            "_price": 10.0,
+            "quantity": 1,
+            "id": "HYUPLO"
+        },
+        "YECTQP": {
+            "title": "The Little Prince",
+            "author": "Antoine de Saint-Exup\u00e9ry",
+            "year": 1943,
+            "category": "Fiction",
+            "_price": 10.0,
+            "quantity": 1,
+            "id": "YECTQP"
+        }
+    }
+}
