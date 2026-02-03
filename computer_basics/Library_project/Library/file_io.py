@@ -8,8 +8,8 @@ class FileIO:
     read a json file and return its contents as a dictionary
     """
 
-    @staticmethod
-    def load_json_files(path: str) -> dict:
+    @classmethod
+    def load_json_files(cls, path: str) -> dict:
         """
         Read a JSON file and return its contents as a dictionary.
         """
@@ -18,7 +18,9 @@ class FileIO:
             raise FileNotFoundError(f"No such file: {path}")
         
         with open(path, "r") as data_file:
-            return json.load(data_file)
+            cls.data_file = json.load(data_file)
+
+        return cls.data_file
         
 
     @staticmethod
@@ -31,6 +33,7 @@ class FileIO:
             
 #result = FileIO.load_json_files("../database.json")
 #print(result)
+
 
         
         
